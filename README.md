@@ -1,11 +1,4 @@
-# Introduction-to-radar
-
-### Principles of Modern RADAR Systems
-
-### Prerequisite
-1. Electromagentic theory
-2. Microwave engineering
-3. Microwave antenna
+# RADAR
 
 ### Books
 1. Introduction to RADAR systems
